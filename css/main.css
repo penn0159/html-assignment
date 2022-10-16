@@ -1,0 +1,45 @@
+body{
+    font-family:'Segoe UI';
+    font-size: 18px;
+}
+header, footer{
+    background-color: rgb(26, 48, 90);
+    color: white;
+    font-size: 25px
+
+}
+
+.class{
+    background-color: rgb(38, 0, 253);
+}
+
+
+
+img{
+    height: 400px;
+    width: 250px;
+    box-shadow: 0 0 2px black
+
+}
+
+ul:nth-child(5){
+    background: teal;
+
+
+}
+
+a{
+    border: 2px;
+    border-color: rgb(53, 10, 207);
+    border-style:solid;
+    border-radius: ;
+}
+
+
+li{
+    background-color: aqua;
+
+}
+
+a:hover{
+    background-color: rgb(1, 158, 248);
